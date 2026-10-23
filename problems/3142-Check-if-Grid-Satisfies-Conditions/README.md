@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Matrix — best runtime 1 ms (Beats 98%), best memory 46 MB (Beats 95%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Matrix — best runtime 1 ms (Beats 98%), best memory 45.9 MB (Beats 95%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 3 before accepted |
-| **Time to solve** | 11 min |
-| **Verdicts** | ❌ Wrong Answer → ❌ Wrong Answer → ✅ Accepted |
+| **Attempts** | 4 before accepted |
+| **Time to solve** | 13 min |
+| **Verdicts** | ❌ Wrong Answer → ❌ Wrong Answer → ✅ Accepted → ✅ Accepted |
 
 ---
 
