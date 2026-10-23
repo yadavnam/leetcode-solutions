@@ -3,8 +3,8 @@
 // Difficulty : Easy
 // Language   : Java
 // Solution   : #2
-// Runtime    : 1 ms (Beats 98%)
-// Memory     : 46 MB (Beats 95%)
+// Runtime    : 2 ms (Beats 3%)
+// Memory     : 45.9 MB (Beats 95%)
 // Link       : https://leetcode.com/problems/check-if-grid-satisfies-conditions/
 // ==========================================================
 
