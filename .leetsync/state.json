@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792794794847,
+  "updatedAt": 1792795092917,
   "devices": {
     "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
-      "lastSeen": 1792794792474
+      "lastSeen": 1792795092467
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792794792474
+      "at": 1792795092467
     }
   },
   "achievements": {
