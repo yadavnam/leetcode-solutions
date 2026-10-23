@@ -1,20 +1,44 @@
 {
   "v": 1,
-  "updatedAt": 1792794226406,
+  "updatedAt": 1792794281836,
   "devices": {
     "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
-      "lastSeen": 1792794225995
+      "lastSeen": 1792794281361
     }
   },
-  "problems": {},
+  "problems": {
+    "3": {
+      "attempts": 1,
+      "bestMemory": "47.4 MB (Beats 95%)",
+      "bestRuntime": "8 ms (Beats 92%)",
+      "date": "2026-10-23",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-23",
+      "folderName": "0003-Longest-Substring-Without-Repeating-Characters",
+      "language": "Java",
+      "number": 3,
+      "slug": "longest-substring-without-repeating-characters",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "title": "Longest Substring Without Repeating Characters",
+      "at": 1792794281361
+    }
+  },
   "achievements": {
+    "first_blood": 1792794238194,
     "night_owl": 1792793972411
   },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-10-23"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "14189155-e9ef-4f50-989c-c44bf4a86675",
