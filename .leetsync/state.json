@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "updatedAt": 1792818494875,
+  "updatedAt": 1792818788661,
   "devices": {
+    "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
+      "lastSeen": 1792818787072
+    },
     "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
       "lastSeen": 1792818492538
-    },
-    "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
-      "lastSeen": 1792818487087
     }
   },
   "problems": {
@@ -28,7 +28,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792818492538
+      "at": 1792818787072
     },
     "1207": {
       "attempts": 1,
@@ -47,11 +47,11 @@
         "Hash Table"
       ],
       "title": "Unique Number of Occurrences",
-      "at": 1792818492538
+      "at": 1792818787072
     },
     "3142": {
-      "attempts": 4,
-      "bestMemory": "45.9 MB (Beats 95%)",
+      "attempts": 3,
+      "bestMemory": "46 MB (Beats 95%)",
       "bestRuntime": "1 ms (Beats 98%)",
       "date": "2026-10-23",
       "difficulty": "Easy",
@@ -60,13 +60,13 @@
       "language": "Java",
       "number": 3142,
       "slug": "check-if-grid-satisfies-conditions",
-      "solutionCount": 2,
+      "solutionCount": 3,
       "tags": [
         "Array",
         "Matrix"
       ],
       "title": "Check if Grid Satisfies Conditions",
-      "at": 1792818492538
+      "at": 1792818787072
     }
   },
   "achievements": {
