@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "updatedAt": 1792863487646,
+  "updatedAt": 1792863493072,
   "devices": {
+    "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
+      "lastSeen": 1792863492517
+    },
     "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
       "lastSeen": 1792863487101
-    },
-    "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
-      "lastSeen": 1792863192526
     }
   },
   "problems": {
@@ -28,11 +28,11 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792863487101
+      "at": 1792863492517
     },
     "290": {
-      "attempts": 2,
-      "bestMemory": "42.1 MB (Beats 97%)",
+      "attempts": 1,
+      "bestMemory": "42 MB (Beats 99%)",
       "bestRuntime": "1 ms (Beats 85%)",
       "date": "2026-10-24",
       "difficulty": "Easy",
@@ -41,13 +41,13 @@
       "language": "Java",
       "number": 290,
       "slug": "word-pattern",
-      "solutionCount": 2,
+      "solutionCount": 1,
       "tags": [
         "Hash Table",
         "String"
       ],
       "title": "Word Pattern",
-      "at": 1792863487101
+      "at": 1792863492517
     },
     "1207": {
       "attempts": 1,
@@ -66,7 +66,7 @@
         "Hash Table"
       ],
       "title": "Unique Number of Occurrences",
-      "at": 1792863487101
+      "at": 1792863492517
     },
     "3142": {
       "attempts": 4,
@@ -85,7 +85,7 @@
         "Matrix"
       ],
       "title": "Check if Grid Satisfies Conditions",
-      "at": 1792863487101
+      "at": 1792863492517
     }
   },
   "achievements": {
