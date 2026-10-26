@@ -33,7 +33,7 @@
 | 202 | [Happy Number](problems/0202-Happy-Number) | 🟩 Easy | `Java` | 2026-10-24 |
 | 290 | [Word Pattern](problems/0290-Word-Pattern) | 🟩 Easy | `Java` | 2026-10-24 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Java` | 2026-10-24 |
-| 1614 | [Maximum Nesting Depth of the Parentheses](problems/1614-Maximum-Nesting-Depth-of-the-Parentheses) | 🟩 Easy | `Java` | 2026-10-25 |
+| 1614 | [Maximum Nesting Depth of the Parentheses](problems/1614-Maximum-Nesting-Depth-of-the-Parentheses) | 🟩 Easy | `Java` | 2026-10-26 |
 | 3142 | [Check if Grid Satisfies Conditions](problems/3142-Check-if-Grid-Satisfies-Conditions) | 🟩 Easy | `Java` | 2026-10-23 |
 
 ---
