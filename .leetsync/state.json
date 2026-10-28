@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "updatedAt": 1793146499309,
+  "updatedAt": 1793147542952,
   "devices": {
+    "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
+      "lastSeen": 1793147542407
+    },
     "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
       "lastSeen": 1793145452333
-    },
-    "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
-      "lastSeen": 1793143694039
     }
   },
   "problems": {
@@ -28,7 +28,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1793145452333
+      "at": 1793147542407
     },
     "202": {
       "attempts": 2,
@@ -49,11 +49,11 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Happy Number",
-      "at": 1793145452333
+      "at": 1793147542407
     },
     "290": {
-      "attempts": 2,
-      "bestMemory": "42.1 MB (Beats 97%)",
+      "attempts": 1,
+      "bestMemory": "42 MB (Beats 99%)",
       "bestRuntime": "1 ms (Beats 85%)",
       "date": "2026-10-24",
       "difficulty": "Easy",
@@ -62,13 +62,13 @@
       "language": "Java",
       "number": 290,
       "slug": "word-pattern",
-      "solutionCount": 2,
+      "solutionCount": 1,
       "tags": [
         "Hash Table",
         "String"
       ],
       "title": "Word Pattern",
-      "at": 1793145452333
+      "at": 1793147542407
     },
     "1207": {
       "attempts": 1,
@@ -87,27 +87,27 @@
         "Hash Table"
       ],
       "title": "Unique Number of Occurrences",
-      "at": 1793145452333
+      "at": 1793147542407
     },
     "1614": {
-      "attempts": 3,
-      "bestMemory": "42.5 MB (Beats 91%)",
-      "bestRuntime": "0 ms (Beats 100%)",
-      "date": "2026-10-27",
+      "attempts": 1,
+      "bestMemory": "42 MB (Beats 100%)",
+      "bestRuntime": "1 ms (Beats 25%)",
+      "date": "2026-10-25",
       "difficulty": "Easy",
-      "firstSolvedOn": "2026-10-27",
+      "firstSolvedOn": "2026-10-25",
       "folderName": "1614-Maximum-Nesting-Depth-of-the-Parentheses",
       "language": "Java",
       "number": 1614,
       "slug": "maximum-nesting-depth-of-the-parentheses",
-      "solutionCount": 3,
+      "solutionCount": 1,
       "tags": [
         "String",
         "Stack",
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1793145452333
+      "at": 1793147542407
     },
     "3142": {
       "attempts": 4,
@@ -126,7 +126,7 @@
         "Matrix"
       ],
       "title": "Check if Grid Satisfies Conditions",
-      "at": 1793145452333
+      "at": 1793147542407
     }
   },
   "achievements": {
