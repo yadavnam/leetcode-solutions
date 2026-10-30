@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793385766382,
+  "updatedAt": 1793386093475,
   "devices": {
     "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
-      "lastSeen": 1793385765888
+      "lastSeen": 1793386091153
     },
     "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
       "lastSeen": 1793384421112
@@ -28,7 +28,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "202": {
       "attempts": 2,
@@ -49,7 +49,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Happy Number",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "290": {
       "attempts": 2,
@@ -68,7 +68,7 @@
         "String"
       ],
       "title": "Word Pattern",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "1207": {
       "attempts": 1,
@@ -87,7 +87,7 @@
         "Hash Table"
       ],
       "title": "Unique Number of Occurrences",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "1512": {
       "attempts": 1,
@@ -108,7 +108,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "1614": {
       "attempts": 3,
@@ -128,12 +128,12 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "2352": {
-      "attempts": 5,
-      "bestMemory": "49.6 MB (Beats 95%)",
-      "bestRuntime": "28 ms (Beats 70%)",
+      "attempts": 6,
+      "bestMemory": "53.8 MB (Beats 57%)",
+      "bestRuntime": "18 ms (Beats 87%)",
       "date": "2026-10-30",
       "difficulty": "Medium",
       "firstSolvedOn": "2026-10-30",
@@ -141,7 +141,7 @@
       "language": "Java",
       "number": 2352,
       "slug": "equal-row-and-column-pairs",
-      "solutionCount": 3,
+      "solutionCount": 4,
       "tags": [
         "Array",
         "Hash Table",
@@ -149,7 +149,7 @@
         "Simulation"
       ],
       "title": "Equal Row and Column Pairs",
-      "at": 1793385765888
+      "at": 1793386091153
     },
     "3142": {
       "attempts": 4,
@@ -168,7 +168,7 @@
         "Matrix"
       ],
       "title": "Check if Grid Satisfies Conditions",
-      "at": 1793385765888
+      "at": 1793386091153
     }
   },
   "achievements": {
@@ -189,7 +189,7 @@
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 16
+    "pushes": 17
   },
   "identity": {
     "installId": "14189155-e9ef-4f50-989c-c44bf4a86675",
