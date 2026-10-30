@@ -35,7 +35,7 @@
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Java` | 2026-10-24 |
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-10-30 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](problems/1614-Maximum-Nesting-Depth-of-the-Parentheses) | 🟩 Easy | `Java` | 2026-10-27 |
-| 2352 | [Equal Row and Column Pairs](problems/2352-Equal-Row-and-Column-Pairs) | 🟧 Medium | `Java` | 2026-10-29 |
+| 2352 | [Equal Row and Column Pairs](problems/2352-Equal-Row-and-Column-Pairs) | 🟧 Medium | `Java` | 2026-10-30 |
 | 3142 | [Check if Grid Satisfies Conditions](problems/3142-Check-if-Grid-Satisfies-Conditions) | 🟩 Easy | `Java` | 2026-10-23 |
 
 ---
