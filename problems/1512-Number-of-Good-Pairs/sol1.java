@@ -1,0 +1,21 @@
+// ==========================================================
+// 1512. Number of Good Pairs
+// Difficulty : Easy
+// Language   : Java
+// Solution   : #1
+// Runtime    : 1 ms (Beats 84%)
+// Memory     : 42.2 MB (Beats 90%)
+// Link       : https://leetcode.com/problems/number-of-good-pairs/
+// ==========================================================
+
+class Solution {
+    public int numIdenticalPairs(int[] nums) {
+        int cnt  = 0;
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                if(nums[i] == nums[j]) cnt++;
+            }
+        }
+        return cnt;
+    }
+}
