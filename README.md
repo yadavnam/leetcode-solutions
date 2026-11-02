@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-9%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-7%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-2%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-10%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-8%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-2%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -38,6 +38,7 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](problems/1614-Maximum-Nesting-Depth-of-the-Parentheses) | 🟩 Easy | `Java` | 2026-10-25 |
 | 2352 | [Equal Row and Column Pairs](problems/2352-Equal-Row-and-Column-Pairs) | 🟧 Medium | `Java` | 2026-10-29 |
 | 3142 | [Check if Grid Satisfies Conditions](problems/3142-Check-if-Grid-Satisfies-Conditions) | 🟩 Easy | `Java` | 2026-10-23 |
+| 4097 | [Minimum Value of Merged Integers](problems/4097-Minimum-Value-of-Merged-Integers) | 🟩 Easy | `Java` | 2026-11-02 |
 
 ---
 
