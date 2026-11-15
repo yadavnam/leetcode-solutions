@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "updatedAt": 1794747981314,
+  "updatedAt": 1794747982601,
   "devices": {
+    "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
+      "lastSeen": 1794746916760
+    },
     "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
       "lastSeen": 1794747980554
-    },
-    "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
-      "lastSeen": 1794746916759
     },
     "b8c90ba4-3b9a-4326-a9cd-049450f4b0f5": {
       "lastSeen": 1793957358318
