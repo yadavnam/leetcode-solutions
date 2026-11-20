@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-17%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-14%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-18%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-14%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-4%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -34,6 +34,7 @@
 | 45 | [Jump Game II](problems/0045-Jump-Game-II) | 🟧 Medium | `Java` | 2026-11-11 |
 | 202 | [Happy Number](problems/0202-Happy-Number) | 🟩 Easy | `Java` | 2026-10-24 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-11-18 |
+| 238 | [Product of Array Except Self](problems/0238-Product-of-Array-Except-Self) | 🟧 Medium | `Java` | 2026-11-20 |
 | 242 | [Valid Anagram](problems/0242-Valid-Anagram) | 🟩 Easy | `Java` | 2026-11-18 |
 | 290 | [Word Pattern](problems/0290-Word-Pattern) | 🟩 Easy | `Java` | 2026-10-24 |
 | 350 | [Intersection of Two Arrays II](problems/0350-Intersection-of-Two-Arrays-II) | 🟩 Easy | `Java` | 2026-11-14 |
