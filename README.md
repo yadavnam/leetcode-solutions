@@ -33,7 +33,7 @@
 | 3 | [Longest Substring Without Repeating Characters](problems/0003-Longest-Substring-Without-Repeating-Characters) | 🟧 Medium | `Java` | 2026-10-23 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `Java` | 2026-11-24 |
 | 45 | [Jump Game II](problems/0045-Jump-Game-II) | 🟧 Medium | `Java` | 2026-11-11 |
-| 49 | [Group Anagrams](problems/0049-Group-Anagrams) | 🟧 Medium | `Java` | 2026-11-24 |
+| 49 | [Group Anagrams](problems/0049-Group-Anagrams) | 🟧 Medium | `Java` | 2026-11-25 |
 | 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `Java` | 2026-11-20 |
 | 125 | [Valid Palindrome](problems/0125-Valid-Palindrome) | 🟩 Easy | `Java` | 2026-11-22 |
 | 152 | [Maximum Product Subarray](problems/0152-Maximum-Product-Subarray) | 🟧 Medium | `Java` | 2026-11-20 |
