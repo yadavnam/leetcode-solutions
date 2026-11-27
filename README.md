@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-29%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-11%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-30%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-19%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-11%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -45,6 +45,7 @@
 | 290 | [Word Pattern](problems/0290-Word-Pattern) | 🟩 Easy | `Java` | 2026-10-24 |
 | 303 | [Range Sum Query - Immutable](problems/0303-Range-Sum-Query---Immutable) | 🟩 Easy | `Java` | 2026-11-25 |
 | 350 | [Intersection of Two Arrays II](problems/0350-Intersection-of-Two-Arrays-II) | 🟩 Easy | `Java` | 2026-11-14 |
+| 389 | [Find the Difference](problems/0389-Find-the-Difference) | 🟩 Easy | `Java` | 2026-11-27 |
 | 560 | [Subarray Sum Equals K](problems/0560-Subarray-Sum-Equals-K) | 🟧 Medium | `Java` | 2026-11-21 |
 | 965 | [Univalued Binary Tree](problems/0965-Univalued-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-04 |
 | 1207 | [Unique Number of Occurrences](problems/1207-Unique-Number-of-Occurrences) | 🟩 Easy | `Java` | 2026-10-24 |
