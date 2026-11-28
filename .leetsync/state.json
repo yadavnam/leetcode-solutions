@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "updatedAt": 1795866487211,
+  "updatedAt": 1795866720891,
   "devices": {
+    "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
+      "lastSeen": 1795866720298
+    },
     "d7b59547-50fe-486a-b522-d38ebea0ca4d": {
       "lastSeen": 1795866486297
-    },
-    "b0080bb9-82aa-40d2-8861-d9f1e5d86a8a": {
-      "lastSeen": 1795866420301
     },
     "b8c90ba4-3b9a-4326-a9cd-049450f4b0f5": {
       "lastSeen": 1793957358318
@@ -14,43 +14,43 @@
   },
   "problems": {
     "1": {
-      "attempts": 2,
-      "bestMemory": "46.3 MB (Beats 91%)",
+      "attempts": 1,
+      "bestMemory": "46.7 MB (Beats 77%)",
       "bestRuntime": "2 ms (Beats 99%)",
-      "date": "2026-11-18",
+      "date": "2026-10-31",
       "difficulty": "Easy",
-      "firstSolvedOn": "2026-11-18",
+      "firstSolvedOn": "2026-10-31",
       "folderName": "0001-Two-Sum",
       "language": "Java",
       "number": 1,
       "slug": "two-sum",
-      "solutionCount": 2,
+      "solutionCount": 1,
       "tags": [
         "Array",
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "3": {
-      "attempts": 1,
-      "bestMemory": "47.4 MB (Beats 95%)",
-      "bestRuntime": "8 ms (Beats 92%)",
-      "date": "2026-10-23",
+      "attempts": 2,
+      "bestMemory": "47.2 MB (Beats 94%)",
+      "bestRuntime": "7 ms (Beats 95%)",
+      "date": "2026-11-16",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-10-23",
+      "firstSolvedOn": "2026-11-16",
       "folderName": "0003-Longest-Substring-Without-Repeating-Characters",
       "language": "Java",
       "number": 3,
       "slug": "longest-substring-without-repeating-characters",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Hash Table",
         "String",
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "11": {
       "attempts": 1,
@@ -70,7 +70,7 @@
         "Greedy"
       ],
       "title": "Container With Most Water",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "45": {
       "attempts": 1,
@@ -90,20 +90,20 @@
         "Greedy"
       ],
       "title": "Jump Game II",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "49": {
-      "attempts": 2,
-      "bestMemory": "48.8 MB (Beats 95%)",
+      "attempts": 1,
+      "bestMemory": "49.1 MB (Beats 78%)",
       "bestRuntime": "7 ms (Beats 83%)",
-      "date": "2026-11-25",
+      "date": "2026-11-24",
       "difficulty": "Medium",
-      "firstSolvedOn": "2026-11-25",
+      "firstSolvedOn": "2026-11-24",
       "folderName": "0049-Group-Anagrams",
       "language": "Java",
       "number": 49,
       "slug": "group-anagrams",
-      "solutionCount": 2,
+      "solutionCount": 1,
       "tags": [
         "Array",
         "Hash Table",
@@ -111,7 +111,7 @@
         "Sorting"
       ],
       "title": "Group Anagrams",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "53": {
       "attempts": 1,
@@ -131,7 +131,7 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "125": {
       "attempts": 1,
@@ -150,7 +150,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "152": {
       "attempts": 4,
@@ -169,12 +169,12 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Product Subarray",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "167": {
-      "attempts": 2,
-      "bestMemory": "48 MB (Beats 61%)",
-      "bestRuntime": "2 ms (Beats 98%)",
+      "attempts": 1,
+      "bestMemory": "48.3 MB (Beats 35%)",
+      "bestRuntime": "3 ms (Beats 17%)",
       "date": "2026-11-22",
       "difficulty": "Medium",
       "firstSolvedOn": "2026-11-22",
@@ -182,14 +182,14 @@
       "language": "Java",
       "number": 167,
       "slug": "two-sum-ii-input-array-is-sorted",
-      "solutionCount": 2,
+      "solutionCount": 1,
       "tags": [
         "Array",
         "Two Pointers",
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "202": {
       "attempts": 2,
@@ -210,7 +210,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Happy Number",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "217": {
       "attempts": 1,
@@ -230,7 +230,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "238": {
       "attempts": 2,
@@ -249,7 +249,7 @@
         "Prefix Sum"
       ],
       "title": "Product of Array Except Self",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "242": {
       "attempts": 1,
@@ -269,7 +269,7 @@
         "Sorting"
       ],
       "title": "Valid Anagram",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "290": {
       "attempts": 1,
@@ -288,7 +288,7 @@
         "String"
       ],
       "title": "Word Pattern",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "303": {
       "attempts": 2,
@@ -308,7 +308,7 @@
         "Prefix Sum"
       ],
       "title": "Range Sum Query - Immutable",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "350": {
       "attempts": 3,
@@ -330,7 +330,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays II",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "389": {
       "attempts": 1,
@@ -351,7 +351,7 @@
         "Sorting"
       ],
       "title": "Find the Difference",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "560": {
       "attempts": 1,
@@ -371,7 +371,7 @@
         "Prefix Sum"
       ],
       "title": "Subarray Sum Equals K",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "965": {
       "attempts": 1,
@@ -392,7 +392,7 @@
         "Binary Tree"
       ],
       "title": "Univalued Binary Tree",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "1207": {
       "attempts": 1,
@@ -411,7 +411,7 @@
         "Hash Table"
       ],
       "title": "Unique Number of Occurrences",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "1512": {
       "attempts": 1,
@@ -432,7 +432,7 @@
         "Counting"
       ],
       "title": "Number of Good Pairs",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "1614": {
       "attempts": 1,
@@ -452,7 +452,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "1748": {
       "attempts": 1,
@@ -472,7 +472,7 @@
         "Counting"
       ],
       "title": "Sum of Unique Elements",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "2124": {
       "attempts": 1,
@@ -490,7 +490,7 @@
         "String"
       ],
       "title": "Check if All A's Appears Before All B's",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "2215": {
       "attempts": 1,
@@ -509,7 +509,7 @@
         "Hash Table"
       ],
       "title": "Find the Difference of Two Arrays",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "2352": {
       "attempts": 1,
@@ -530,7 +530,7 @@
         "Simulation"
       ],
       "title": "Equal Row and Column Pairs",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "2567": {
       "attempts": 1,
@@ -550,7 +550,7 @@
         "Sorting"
       ],
       "title": "Minimum Score by Changing Two Elements",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "3142": {
       "attempts": 4,
@@ -569,7 +569,7 @@
         "Matrix"
       ],
       "title": "Check if Grid Satisfies Conditions",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "3360": {
       "attempts": 2,
@@ -588,7 +588,7 @@
         "Simulation"
       ],
       "title": "Stone Removal Game",
-      "at": 1795866486297
+      "at": 1795866720298
     },
     "4097": {
       "attempts": 1,
@@ -604,7 +604,7 @@
       "solutionCount": 1,
       "tags": [],
       "title": "Minimum Value of Merged Integers",
-      "at": 1795866486297
+      "at": 1795866720298
     }
   },
   "achievements": {
